@@ -1,0 +1,89 @@
+/** @format */
+body {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    background: url("img/barbell-1839086_1920.jpg");
+    height: 1250px;
+  }
+  .left {
+    display: inline-block;
+    position: absolute;
+    top: 22px;
+    left: 22px;
+    
+  }
+  .left img {
+    width: 145px;
+  }
+  .left div {
+    text-align: center;
+
+    font-size: 12px;
+  }
+  .middle {
+    display: block;
+    margin: 22px auto;
+    width: 50%;
+    top: 2px;
+   
+  }
+  .right {
+    display: inline-block;
+    position: absolute;
+    top: 22px;
+    right: 22px;
+   
+  }
+  .btn {
+    margin: 0px 9px;
+    background-color: black;
+    color: white;
+    padding: 10px 16px;
+
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: "Boogaloo", cursive;
+  }
+  .btn:hover {
+    background: rgb(95, 90, 90);
+  }
+
+  .navb {
+    display: inline-block;
+    margin: absolute auto;
+  }
+  .navb li {
+    display: inline-block;
+    color: white;
+  }
+  .navb li a {
+    color: white;
+    text-decoration: none;
+    padding: 34px 23px;
+  }
+
+  .navb li a:hover,
+  navb li a.active {
+    color: grey;
+    text-decoration: underline;
+  }
+
+  .cont {
+   
+    padding: 99px 164px;
+    margin: 63px 310px;
+    width: 26%;
+    border-radius: 78px;
+    text-align: center;
+    
+  }
+.form-group input{
+display: block;
+padding: 14px;
+width: 277px;
+margin: 4px auto;
+text-align: center;
+border-radius: 10px;
+font-family: "Boogaloo", cursive;
+}
