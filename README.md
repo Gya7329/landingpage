@@ -1,2 +1,2 @@
 # First Landing Page
-#:)- Link=>> gymlanding.netlify.app
+#Link: gymlanding.netlify.app
